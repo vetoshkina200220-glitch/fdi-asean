@@ -1,0 +1,42 @@
+{
+  "features": [
+    "GDP_growth",
+    "Inflation",
+    "Real_interest",
+    "Trade_openness",
+    "Tariff_rate",
+    "Trade_in_services",
+    "Gov_Debt",
+    "Ext_Debt",
+    "Debt_Service",
+    "CO2_per_capita",
+    "Energy_intensity",
+    "Renewable_energy",
+    "Internet_users",
+    "Secure_servers",
+    "Pop_growth",
+    "Edu_expenditure",
+    "Labor_force"
+  ],
+  "target": "FDI_pct",
+  "target_abs": "FDI_abs",
+  "feature_groups": {
+    "GDP_growth": "ВВП",
+    "Trade_openness": "Деглобализация",
+    "Tariff_rate": "Деглобализация",
+    "Trade_in_services": "Деглобализация",
+    "Renewable_energy": "Декарбонизация",
+    "Energy_intensity": "Декарбонизация",
+    "CO2_per_capita": "Декарбонизация",
+    "Internet_users": "Диджитализация",
+    "Secure_servers": "Диджитализация",
+    "Pop_growth": "Демография",
+    "Edu_expenditure": "Демография",
+    "Labor_force": "Демография",
+    "Gov_Debt": "Долг",
+    "Ext_Debt": "Долг",
+    "Debt_Service": "Долг",
+    "Inflation": "Инфляция",
+    "Real_interest": "Процентная ставка"
+  }
+}
